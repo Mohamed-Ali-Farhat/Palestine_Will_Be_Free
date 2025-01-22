@@ -57,9 +57,7 @@ To set up and run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-
+   git clone https://github.com/Mohamed-Ali-Farhat/Palestine_Will_Be_Free
 
 
 2. **Run the Streamlit app**:
