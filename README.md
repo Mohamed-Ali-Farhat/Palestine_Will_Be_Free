@@ -59,3 +59,12 @@ To set up and run this project, follow these steps:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+
+
+2. **Run the Streamlit app**:
+To start the app, run the following command:
+ ```bash
+   streamlit run app.py
+   
+
