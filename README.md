@@ -22,3 +22,16 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/repository-name.git
 cd repository-name
+
+### **2. Install Dependencies**
+
+You will need to install several libraries for the project to work. Below are the instructions for installing them manually:
+
+#### **Ollama**
+
+Ollama is used for generating responses using a large language model. Install it using the following command:
+
+```bash
+pip install ollama
+
+
