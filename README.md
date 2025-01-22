@@ -61,7 +61,7 @@ To set up and run this project, follow these steps:
 
 2. **Install the libraries**:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 3. **Run the Streamlit app**:
