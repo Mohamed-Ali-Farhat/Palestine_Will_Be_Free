@@ -59,8 +59,12 @@ To set up and run this project, follow these steps:
    ```bash
    git clone https://github.com/Mohamed-Ali-Farhat/Palestine_Will_Be_Free
 
+2. **Install the libraries**:
+   ```bash
+pip install -r requirements.txt
 
-2. **Run the Streamlit app**:
+
+3. **Run the Streamlit app**:
 To start the app, run the following command:
     ```bash
     streamlit run app.py
