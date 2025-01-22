@@ -68,3 +68,13 @@ To start the app, run the following command:
     ```bash
     streamlit run app.py
    
+## Conclusion
+This project is an open-source initiative designed to make important information about Palestine more accessible through AI and interactive technology. 
+It leverages powerful models to provide detailed answers to user queries based on historical and cultural context.
+
+I invite anyone interested in using, improving, or contributing to this project to explore the code and ideas shared here. 
+If you have any questions, ideas for enhancements, or want to collaborate, please feel free to reach out—I would be happy to discuss it further and assist in any way I can!
+
+Let’s work together to spread the truth and make knowledge about Palestine easily accessible for all.
+
+## Thank you  and Free Palestine 
