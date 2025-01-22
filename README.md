@@ -1,4 +1,4 @@
-# Question Answering System Using AI and Chroma Database
+# Free Palestine Project
 
 This project implements a **question-answering system** that utilizes **Ollama's LLMs**, **Streamlit**, and **Langchain** to provide detailed answers based on a dataset of text documents. The system retrieves relevant information from a local Chroma database and generates responses using AI-powered models.
 
